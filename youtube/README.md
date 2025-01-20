@@ -35,8 +35,12 @@ Ao finalizar o desafio, sua página deverá ter a seguinte estrutura:
 
 - **Seção principal:** Exibição do vídeo.
 - **Descrição:** Título, informações e botões de interação.
-- **Comentários:** Seção para exibir os comentários.
 - **Vídeos recomendados:** Lista de thumbnails ao lado direito.
+
+---
+## Imagens do Projeto
+[Desktop](![image](https://github.com/user-attachments/assets/29f1ee6f-0a62-43ae-ac62-4f0198fdc6e4)
+)
 
 ---
 
