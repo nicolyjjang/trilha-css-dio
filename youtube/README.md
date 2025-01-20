@@ -39,7 +39,7 @@ Ao finalizar o desafio, sua página deverá ter a seguinte estrutura:
 
 ---
 ## Imagens do Projeto
-[Desktop](![image](https://github.com/user-attachments/assets/29f1ee6f-0a62-43ae-ac62-4f0198fdc6e4)
+[Desktop](https://github.com/user-attachments/assets/a3568be1-0a68-4675-a201-e4598d78d18a)
 )
 
 ---
